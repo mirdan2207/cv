@@ -12,7 +12,7 @@ function App() {
       <h1 className="text-3xl font-bold mb-4">MIRONENKO DANIIL</h1>
 
       <ContactInformation
-        phone="+375336848243"
+        telegram="https://t.me/anonymous22072005"
         email="mirdan2207@gmail.com"
         github="https://github.com/mirdan2207"
       />
